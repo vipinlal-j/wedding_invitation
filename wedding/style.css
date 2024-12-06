@@ -1,0 +1,94 @@
+.main1{
+    width: 45%;
+    height: auto;
+    box-decoration-break: slice;
+    background-color: #f5e3ab;
+    margin: auto;
+    /* background-image: url(images/card.jpg);
+    background-repeat: no-repeat;
+    background-size: auto; */
+    background-image: url(images/pngegg.png), url(images/pngegg.png);
+    background-repeat: no-repeat;
+    background-blend-mode:overlay;
+    background-size:25%;
+    background-position:top-left, bottom-right;
+}
+.main2{
+    width: 90%;
+    margin: auto;
+    /* background-color: #f5e3ab; */
+    height: auto;
+    flex: auto;
+    /* background-color: #f5e3ab;
+    background-image: url(images/pngegg.png);
+    background-position:bottom;
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-blend-mode: overlay; */
+}
+.heading1{
+    font-family:"Dancing Script", cursive; 
+    text-align: center;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #D4AF37;
+    font-size: 3rem;
+}
+.img1{
+    width: 40px;
+    height: auto;
+}
+.container{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    /* background-color: #f5e3ab; */
+    border-color: #2d4436;
+    text-align: center;
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight:600;
+    font-style: normal;
+
+}
+.container1{
+    background-color: #274059;
+}
+.container2{
+    background-color: #f5e3ab;
+    background-image: url(images/pngegg2.png),url(images/pngegg2.png);
+    background-repeat:no-repeat;
+    background-blend-mode: overlay ;
+    background-size: 25%;
+    background-position: right;
+}
+.data{
+    color: #274059;
+}
+.date1{
+    color: #274059;
+}
+.atag{
+    text-decoration: none;
+    color: #800000;
+}
+.atag1{
+    text-decoration: none;
+    background-color: #f5e3ab;
+    color: #800000;
+    background-image: url(images/pngegg.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-blend-mode: overlay;
+    background-position: center;
+}
+.small{
+    font-size: 0.8rem;
+    font-family: "Zilla Slab", serif;
+}
+.img2{
+    width: 200px;
+    height: auto;
+    margin: auto;
+    padding-left:unset;
+}
